@@ -1,5 +1,5 @@
-#  Titulo del documento
+#  Encabezado de nivel 1
 
-##subtitulo del document
+## encabezado de nivel 2
 
-##otro subtitulo del documento
+### encabezado de nivel 3
