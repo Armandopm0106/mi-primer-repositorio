@@ -1,2 +1,5 @@
-# mi-primer-repositorio
-Primer repositorio de procesamiento de gráficos
+#  Titulo del documento
+
+##subtitulo del document
+
+##otro subtitulo del documento
